@@ -7,9 +7,9 @@ CustomLottieDialogBox is an android library which facilitate developers to add c
 [![](https://jitpack.io/v/SiddyDevelops/CustomLottieDialogBox-Android.svg)](https://jitpack.io/#SiddyDevelops/CustomLottieDialogBox-Android)
 
 <p align="center">
-  <img width="180" height="400" src="https://user-images.githubusercontent.com/72121163/135487978-925d83ef-6745-4b34-8081-6d916083293d.gif">  
-  <img width="180" height="400" src="https://user-images.githubusercontent.com/72121163/135488088-67315429-f074-4f3c-8735-017e85baa634.gif">
-  <img width="180" height="400" src="https://user-images.githubusercontent.com/72121163/135488105-abbbf44b-bfd7-4cfb-ab2f-a1bd18af5d42.gif">
+  <img width="150" height="400" src="https://user-images.githubusercontent.com/72121163/135487978-925d83ef-6745-4b34-8081-6d916083293d.gif">  
+  <img width="150" height="400" src="https://user-images.githubusercontent.com/72121163/135488088-67315429-f074-4f3c-8735-017e85baa634.gif">
+  <img width="150" height="400" src="https://user-images.githubusercontent.com/72121163/135488105-abbbf44b-bfd7-4cfb-ab2f-a1bd18af5d42.gif">
 </p>
 
 ## Installation:
