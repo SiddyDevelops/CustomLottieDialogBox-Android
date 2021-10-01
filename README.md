@@ -34,11 +34,11 @@ dependencies {
 In your ```activity.java``` follow the steps given below to add the custom Dialog:
 - Step 1. To add an animation from the library-builtin:
 
-	
+ 	```
 	CustomLottieDialog customLottieDialog;
 	customLottieDialog = new CustomLottieDialog(context, "LO01");
 	customLottieDialog.show();
-	
+	```
 - Step 2. To add your own custom <a href="https://lottiefiles.com/">Lottie</a> animation:
 	First download Lottie JSON of your preferred animation and add the downloaded file to ``raw`` inside ``res``.
 	
