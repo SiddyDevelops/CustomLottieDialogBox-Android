@@ -15,7 +15,7 @@ CustomLottieDialogBox is an android library which facilitate developers to add c
 </p>
 
 ## Installation:
-Step 1. Add it in your root build.gradle at the end of repositories:
+- Step 1. Add it in your root build.gradle at the end of repositories:
 ```
 allprojects {
 		repositories {
@@ -24,7 +24,7 @@ allprojects {
 		}
 	}
 ```
-Step 2. Add the dependency:
+- Step 2. Add the dependency:
 ```
 dependencies {
 	        implementation 'com.github.SiddyDevelops:CustomLottieDialogBox-Android:0.2.0'
@@ -32,20 +32,20 @@ dependencies {
 ```
 ## Usage:
 In your ```activity.java``` follow the steps given below to add the custom Dialog:
-Step 1. To add an animation from the library-builtin:
+- Step 1. To add an animation from the library-builtin:
 
 	
 	CustomLottieDialog customLottieDialog;
 	customLottieDialog = new CustomLottieDialog(context, "LO01");
 	customLottieDialog.show();
 	
-Step 2. To add your own custom <a href="https://lottiefiles.com/">Lottie</a> animation:
+- Step 2. To add your own custom <a href="https://lottiefiles.com/">Lottie</a> animation:
 	First download Lottie JSON of your preferred animation and add the downloaded file to ``raw`` inside ``res``.
 	
 ![LottiePreview](https://user-images.githubusercontent.com/72121163/135556267-52d16179-3c38-490c-9857-7d5bbbd61c3d.PNG)
 
 	CustomLottieDialog customLottieDialog;
-	customLottieDialog = new CustomLottieDialog(this,R.raw.heartbeat_loader);
+	customLottieDialog = new CustomLottieDialog(context,R.raw.heartbeat_loader);
 	customLottieDialog.show();
 
 	
