@@ -25,6 +25,6 @@ allprojects {
 Step 2. Add the dependency:
 ```
 dependencies {
-	        implementation 'com.github.SiddyDevelops:CustomLottieDialogBox-Android:0.1.0'
+	        implementation 'com.github.SiddyDevelops:CustomLottieDialogBox-Android:0.2.0'
 	}
 ```
