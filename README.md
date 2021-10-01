@@ -48,6 +48,13 @@ In your ```activity.java``` follow the steps given below to add the custom Dialo
 	customLottieDialog = new CustomLottieDialog(context,R.raw.heartbeat_loader);
 	customLottieDialog.show();
 
+- Step 3. To customize the Loading Text:
+
+	```
+	customLottieDialog.setLoadingText("Custom Text");
+			OR
+	customLottieDialog.setLoadingText("");          //-----> To remove custom text
+	```
 	
 	
 	
