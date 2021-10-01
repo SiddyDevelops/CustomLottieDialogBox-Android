@@ -5,6 +5,8 @@
 CustomLottieDialogBox is an android library which facilitate developers to add customized loading Dialog-Boxes to their android apps. Users can add Lottie Animations of thier wish or can choose from the already existing animation. They can change the backgroung color, text color, size of dialog box or can add thier own custom text using this library.
 
 [![](https://jitpack.io/v/SiddyDevelops/CustomLottieDialogBox-Android.svg)](https://jitpack.io/#SiddyDevelops/CustomLottieDialogBox-Android)
+![Minimum SDK Version](https://img.shields.io/badge/minSdkVersion-23-brightgreen)
+[![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
 
 <p align="center">
   <img width="150" height="350" src="https://user-images.githubusercontent.com/72121163/135487978-925d83ef-6745-4b34-8081-6d916083293d.gif">  
@@ -28,3 +30,4 @@ dependencies {
 	        implementation 'com.github.SiddyDevelops:CustomLottieDialogBox-Android:0.2.0'
 	}
 ```
+## Usage:
