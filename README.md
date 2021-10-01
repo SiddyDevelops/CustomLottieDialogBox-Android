@@ -32,14 +32,14 @@ dependencies {
 ```
 ## Usage:
 In your ```activity.java``` follow the steps given below to add the custom Dialog:
-- Step 1. To add an animation from the library-builtin:
+- To add an animation from the library-builtin:
 
  	```
 	CustomLottieDialog customLottieDialog;
 	customLottieDialog = new CustomLottieDialog(context, "LO01");
 	customLottieDialog.show();
 	```
-- Step 2. To add your own custom <a href="https://lottiefiles.com/">Lottie</a> animation:
+- To add your own custom <a href="https://lottiefiles.com/">Lottie</a> animation:
 	First download Lottie JSON of your preferred animation and add the downloaded file to ``raw`` inside ``res``.
 	
 ![LottiePreview](https://user-images.githubusercontent.com/72121163/135556267-52d16179-3c38-490c-9857-7d5bbbd61c3d.PNG)
@@ -48,14 +48,37 @@ In your ```activity.java``` follow the steps given below to add the custom Dialo
 	customLottieDialog = new CustomLottieDialog(context,R.raw.heartbeat_loader);
 	customLottieDialog.show();
 
-- Step 3. To customize the Loading Text:
+- To customize the Loading Text:
 
 	```
 	customLottieDialog.setLoadingText("Custom Text");
 			OR
 	customLottieDialog.setLoadingText("");          //-----> To remove custom text
 	```
+- To change text-color of custom loading text:
 	
+	```
+	customLottieDialog.setLoadingTextColor("{HexColorCode}");
+	```
+
+- To change Lottie animation background color:
+	```
+	customLottieDialog.setLottieBackgroundColor("{HexColorCode}");
+	```
 	
+- To change the dimensions of the dialog box:
 	
+	```
+	customLottieDialog.setDialogLayoutDimensions({width in dp (int)},{height in dp (int));
+	```
+	
+- Example:
+	
+	```
+	CustomLottieDialog customLottieDialog;
+	customLottieDialog = new CustomLottieDialog(MainActivity.this, "LO01");
+	customLottieDialog.setLottieBackgroundColor("#7AC89E");
+	customLottieDialog.setLoadingText("Custom Text");
+	customLottieDialog.setLoadingTextColor("#FFFFFF");
+	```
 
