@@ -45,6 +45,7 @@ In your ```activity.java``` follow the steps given below to add the custom Dialo
 	customLottieDialog.show();
 	```
 - To add your own custom <a href="https://lottiefiles.com/">Lottie</a> animation:
+- 
 	First download Lottie JSON of your preferred animation and add the downloaded file to ``raw`` inside ``res``.
 	
 ![LottiePreview](https://user-images.githubusercontent.com/72121163/135556267-52d16179-3c38-490c-9857-7d5bbbd61c3d.PNG)
