@@ -14,6 +14,8 @@ CustomLottieDialogBox is an android library which facilitate developers to add c
   <img width="150" height="350" src="https://user-images.githubusercontent.com/72121163/135488105-abbbf44b-bfd7-4cfb-ab2f-a1bd18af5d42.gif">
 </p>
 
+---
+
 ## Installation:
 - Step 1. Add it in your root build.gradle at the end of repositories:
 ```
@@ -30,6 +32,9 @@ dependencies {
 	        implementation 'com.github.SiddyDevelops:CustomLottieDialogBox-Android:0.2.0'
 	}
 ```
+
+---
+
 ## Usage:
 In your ```activity.java``` follow the steps given below to add the custom Dialog:
 - To add an animation from the library-builtin:
@@ -81,4 +86,6 @@ In your ```activity.java``` follow the steps given below to add the custom Dialo
 	customLottieDialog.setLoadingText("Custom Text");
 	customLottieDialog.setLoadingTextColor("#FFFFFF");
 	```
+	
+---
 
