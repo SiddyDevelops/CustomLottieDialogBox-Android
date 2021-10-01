@@ -76,7 +76,13 @@ In your ```activity.java``` follow the steps given below to add the custom Dialo
 	```
 	customLottieDialog.setDialogLayoutDimensions({width in dp (int)},{height in dp (int));
 	```
+
+- To dismiss the dialog box:
 	
+	```
+	customLottieDialog.dismiss();
+	```
+
 - Example:
 	
 	```
