@@ -46,6 +46,7 @@ public class CustomLottieDialog {
         lottieAnimationView = dialog.findViewById(R.id.lottieAnimation);
         lottieAnimationView.setAnimation(lottieAnim);
         lottieAnimationView.setRepeatCount(100);
+        dialog.setCanceledOnTouchOutside(false);
     }
 
     private void initializeBatch() {
@@ -55,6 +56,7 @@ public class CustomLottieDialog {
         mGraduallyTextView = dialog.findViewById(R.id.loadingTextView);
         parentLayout = dialog.findViewById(R.id.parentLayout);
         lottieAnimationView = dialog.findViewById(R.id.lottieAnimation);
+        dialog.setCanceledOnTouchOutside(false);
 
         switch(lottieBatch)
         {
