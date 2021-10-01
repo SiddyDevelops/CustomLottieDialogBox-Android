@@ -112,7 +112,19 @@ In your ```activity.java``` follow the steps given below to add the custom Dialo
 | <img src='https://user-images.githubusercontent.com/72121163/135577931-b2a8e22b-05ed-4673-a816-e611a197dd54.gif' alt='Spiral' width="150px" height="150px"/> | "LO08" |
 
 </td></tr> 
+</table>
+	
+---
+	
+## From the Developer:
 
+This Android Library is developed by <a href="https://github.com/SiddyDevelops">Siddharth Singh<a/>. The animation included in this library is taken from https://lottiefiles.com/ .
+  
+Follow my <a href="https://github.com/SiddyDevelops#connect-with-me">Social Handles<a/> for more projects.
+  
+Enjoy Coding!! 🚀 ✨
+
+---
 
 
 
