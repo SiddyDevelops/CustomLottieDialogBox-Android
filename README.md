@@ -89,3 +89,32 @@ In your ```activity.java``` follow the steps given below to add the custom Dialo
 	
 ---
 
+## Library-Inbuilt Animations:
+
+<table>
+<tr><th></th><th></th></tr>
+<tr><td>
+
+| Animation | lottieBatch | 
+|--|--|
+| <img src='https://user-images.githubusercontent.com/72121163/135574362-f374c0f6-f9cb-43d5-84b4-34b80ca657f6.gif' alt='PaperPlane' width="150px" height="150px"/> | "LO01" |
+| <img src='https://user-images.githubusercontent.com/72121163/135576133-7305c74f-8782-4e55-b1bf-4cb0462eaba6.gif' alt='Balance' width="150px" height="150px"/> | "LO03" |
+| <img src='https://user-images.githubusercontent.com/72121163/135577221-740d5817-a54e-48cc-909b-e586dd4179e7.gif' alt='Loop' width="150px" height="150px"/> | "LO05" |
+| <img src='https://user-images.githubusercontent.com/72121163/135577712-bfd3e3c5-9365-41db-949d-44567ee303da.gif' alt='Rocket' width="150px" height="150px"/> | "LO07" |
+
+</td><td>
+
+| Animation | lottieBatch |
+|--|--|
+| <img src='https://user-images.githubusercontent.com/72121163/135574595-4cd8b4bc-3b36-4057-af55-1cfe08db7755.gif' alt='Bubble' width="150px" height="150px"/> | "LO02" |
+| <img src='https://user-images.githubusercontent.com/72121163/135576343-aab0053b-5265-4965-899a-e81e19c0aa4f.gif' alt='Groove' width="150px" height="150px"/> | "LO04" |
+| <img src='https://user-images.githubusercontent.com/72121163/135577352-8acb9019-15a4-4bd0-b57f-b4ab988ff1a4.gif' alt='Music' width="150px" height="150px"/> | "LO06" |
+| <img src='https://user-images.githubusercontent.com/72121163/135577931-b2a8e22b-05ed-4673-a816-e611a197dd54.gif' alt='Spiral' width="150px" height="150px"/> | "LO08" |
+
+</td></tr> 
+
+
+
+
+
+
